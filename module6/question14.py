@@ -1,2 +1,0 @@
-""" Negative indexing in Python allows you to access elements of a sequence from the end, using negative numbers as indexes. 
-    For example, consider a list a = [1, 2, 3, 4]. If we print a[-1], it will give us the last element of the list, which is 4 """
