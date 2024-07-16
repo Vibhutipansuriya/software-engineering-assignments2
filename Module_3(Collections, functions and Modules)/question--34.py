@@ -1,7 +1,7 @@
 # Write a Python script to check if a given key already exists in a dictionary.
 
 # Initialize the dictionary
-dict = {1: "Ketki", 2: "Karandikar", 3: "Neel", 4: "Golwelkar"}
+dict = {1: "vibhuti", 2: "pansuriya", 3: "Neel", 4: "Golwelkar"}
 
 # Key to check
 
